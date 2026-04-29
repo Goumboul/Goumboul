@@ -1,0 +1,1 @@
+- [Lucca Lisciati-Ghazinia — developer profile](user_profile.md) — fullstack dev (PHP/Laravel focus), Epitech student, seeking internship, Nancy FR
