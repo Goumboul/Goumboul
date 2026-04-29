@@ -30,6 +30,6 @@ Projects:
 Contact:
 - Email: lucca.lisciati-ghazinia@epitech.eu
 - Personal email: pachtoune4@gmail.com
-- GitHub: username not yet confirmed ([INSERT_GITHUB_USERNAME] placeholder used)
+- GitHub: Goumboul (confirmed from repo git user)
 
 Personal interests: Running, Hiking, Cinema

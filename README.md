@@ -1,84 +1,94 @@
+<div align="center">
+
 # Lucca Lisciati-Ghazinia
 
-**Fullstack Developer — Backend & Automation focus**
-Nancy, France · Epitech (2024–2029) · Open to internship / junior roles
+**Fullstack Developer — Backend & Automation**
+
+Nancy, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Open to internship & junior roles
+
+[![Email](https://img.shields.io/badge/Email-lucca.lisciati--ghazinia%40epitech.eu-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117&color=30363d)](mailto:lucca.lisciati-ghazinia@epitech.eu)
+[![Location](https://img.shields.io/badge/Nancy%2C_France-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117&color=30363d)](https://www.google.com/maps/place/Nancy)
+
+</div>
 
 ---
 
-## About
-
-I build backend systems, REST APIs, and automation tools that solve real operational problems.
-Currently a student at Epitech, with hands-on experience deploying automation in a professional environment.
-I care about reliability, clean architecture, and code that does exactly what it says it does.
+I build backend systems, REST APIs, and automation tools that solve real operational problems. Currently a student at Epitech, with hands-on experience deploying automation in a professional environment. I care about reliability, clean architecture, and code that does exactly what it says it does.
 
 ---
 
-## Tech Stack
+## Stack
 
-**Languages**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+[![My Skills](https://skillicons.dev/icons?i=php,js,py,c,cpp&theme=dark)](https://skillicons.dev)
 
-**Frameworks & Libraries**
+[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,react,fastapi&theme=dark)](https://skillicons.dev)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,jupyter&theme=dark)](https://skillicons.dev)
 
-**Databases & Tools**
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+|  | Technologies |
+|---|---|
+| **Languages** | PHP, JavaScript, Python, C, C++ |
+| **Frameworks** | Laravel, Node.js, React, FastAPI, Streamlit |
+| **Data & Tools** | MySQL, Jupyter, Git |
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Task Management API
-REST API for managing tasks and workflows — built with **Node.js + MySQL**.
-Full CRUD system with structured database integration. Designed for clarity and extensibility.
+> Node.js · MySQL
+
+Full CRUD REST API for managing tasks and workflows. Structured database integration, designed for clarity and extensibility.
+
+---
 
 ### Automated Email System
-Production-grade email automation built with **PHP (OOP) + Laravel**.
-Developed during my internship at Partners Finances — validated automation rules and threshold logic
-that improved system reliability in a live environment.
+> PHP (OOP) · Laravel
+
+Production-grade email automation built during my internship at **Partners Finances**. Validated automation rules and threshold logic that improved system reliability in a live environment.
+
+---
 
 ### 3D Raycasting Engine
-A basic 3D rendering engine written in **C + CSFML** from scratch.
-Implements raycasting to render a 3D perspective from a 2D map — no game engine, no shortcuts.
-Demonstrates systems thinking and low-level graphics programming.
+> C · CSFML
+
+A 3D rendering engine written from scratch — no game engine, no shortcuts. Implements raycasting to render a 3D perspective from a 2D map. Systems thinking and low-level graphics programming.
+
+---
 
 ### Train Delay Prediction
-Data analysis and delay prediction pipeline using **Python, Jupyter, and Streamlit**.
-Combines statistical modeling with an interactive visual dashboard for exploring results.
+> Python · Jupyter · Streamlit
+
+Data analysis and delay prediction pipeline combining statistical modeling with an interactive visual dashboard for exploring results.
 
 ---
 
 ## Experience
 
-**Intern — Partners Finances** (2025)
-Supervised and validated threshold logic for an automated email notification bot.
-Identified edge cases in automation rules and improved reliability of the system in production.
+**Intern — Partners Finances** &nbsp;·&nbsp; 2025
+
+Supervised and validated threshold logic for an automated email notification bot. Identified edge cases in automation rules and improved reliability in production.
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[INSERT_GITHUB_USERNAME]&show_icons=true&theme=default&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[INSERT_GITHUB_USERNAME]&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goumboul&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goumboul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)
+
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-- Email: [lucca.lisciati-ghazinia@epitech.eu](mailto:lucca.lisciati-ghazinia@epitech.eu)
-- GitHub: [github.com/[INSERT_GITHUB_USERNAME]](https://github.com/[INSERT_GITHUB_USERNAME])
-- Location: Nancy, France
+[lucca.lisciati-ghazinia@epitech.eu](mailto:lucca.lisciati-ghazinia@epitech.eu) &nbsp;·&nbsp; Nancy, France
+
+</div>
