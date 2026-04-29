@@ -2,7 +2,9 @@
 
 # Lucca Lisciati-Ghazinia
 
-**Fullstack Developer — Backend & Automation**
+**Backend systems · REST APIs · Automation**
+
+I build things that run reliably in production — not just things that pass tests.
 
 Nancy, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Open to internship & junior roles
 
@@ -13,7 +15,24 @@ Nancy, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Open to internsh
 
 ---
 
-I build backend systems, REST APIs, and automation tools that solve real operational problems. Currently a student at Epitech, with hands-on experience deploying automation in a professional environment. I care about reliability, clean architecture, and code that does exactly what it says it does.
+## What I build
+
+Not features. Solutions to operational problems.
+
+My work sits at the intersection of **backend architecture** and **automation** — REST APIs that handle real load, automation systems deployed in production, and data pipelines that surface useful insight. I prefer code that is boring to read and reliable to run.
+
+I have validated automation logic live at a financial services firm. I have built rendering engines from scratch with nothing but C and math. The range is intentional: I want to understand systems, not just use them.
+
+---
+
+## Current focus
+
+```diff
++ Epitech Year 1 — systems programming, algorithms, software architecture
++ Internship experience at Partners Finances (2025) — production automation
++ Building toward a backend / fullstack internship in 2025–2026
+- Still learning: distributed systems, deeper DevOps, advanced data engineering
+```
 
 ---
 
@@ -21,57 +40,83 @@ I build backend systems, REST APIs, and automation tools that solve real operati
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,py,c,cpp&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=php,js,py,c,cpp&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,react,fastapi&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,react,fastapi&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,jupyter&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,git,jupyter&theme=dark)](https://skillicons.dev)
 
 </div>
 
-|  | Technologies |
+```bash
+# Languages
+PHP · JavaScript · Python · C · C++
+
+# Frameworks & Runtimes
+Laravel · Node.js · React · FastAPI · Streamlit
+
+# Data & Tooling
+MySQL · Jupyter · Git
+```
+
+---
+
+## What I bring
+
+These are not generic claims. Each one has a project or experience behind it.
+
+| Claim | Proof |
 |---|---|
-| **Languages** | PHP, JavaScript, Python, C, C++ |
-| **Frameworks** | Laravel, Node.js, React, FastAPI, Streamlit |
-| **Data & Tools** | MySQL, Jupyter, Git |
+| Can ship backend APIs cleanly | Task Management API — full CRUD, structured DB integration |
+| Have worked in production | Automated Email System deployed at Partners Finances |
+| Understand low-level systems | 3D Raycasting Engine — written from scratch in C |
+| Can work with data end-to-end | Train Delay Prediction — pipeline, model, interactive dashboard |
+| Validated automation in a live environment | Threshold logic QA during internship — caught real edge cases |
 
 ---
 
 ## Projects
 
 ### Task Management API
-> Node.js · MySQL
+> `Node.js` · `MySQL`
 
-Full CRUD REST API for managing tasks and workflows. Structured database integration, designed for clarity and extensibility.
+Full CRUD REST API for managing tasks and workflows. Clean database integration with a structure built for extension — not just for the demo.
 
 ---
 
 ### Automated Email System
-> PHP (OOP) · Laravel
+> `PHP (OOP)` · `Laravel`
 
-Production-grade email automation built during my internship at **Partners Finances**. Validated automation rules and threshold logic that improved system reliability in a live environment.
+Production email automation built during my internship at **Partners Finances**. Validated threshold logic and automation rules in a live financial environment — not a side project, a shipped tool.
 
 ---
 
 ### 3D Raycasting Engine
-> C · CSFML
+> `C` · `CSFML`
 
-A 3D rendering engine written from scratch — no game engine, no shortcuts. Implements raycasting to render a 3D perspective from a 2D map. Systems thinking and low-level graphics programming.
+A 3D rendering engine written from scratch — no game engine, no shortcuts. Renders a 3D perspective from a 2D map using raycasting. This is systems thinking and low-level graphics programming, not framework usage.
 
 ---
 
 ### Train Delay Prediction
-> Python · Jupyter · Streamlit
+> `Python` · `Jupyter` · `Streamlit`
 
-Data analysis and delay prediction pipeline combining statistical modeling with an interactive visual dashboard for exploring results.
+Data pipeline combining statistical modeling with an interactive dashboard. The goal was insight, not just output — the Streamlit interface makes results explorable, not just printable.
 
 ---
 
 ## Experience
 
-**Intern — Partners Finances** &nbsp;·&nbsp; 2025
+```
+Partners Finances — Intern · 2025
+────────────────────────────────────────────────────────
+Supervised and validated threshold logic for an automated
+email notification bot running in production.
 
-Supervised and validated threshold logic for an automated email notification bot. Identified edge cases in automation rules and improved reliability in production.
+Identified edge cases in automation rules before they
+reached end users. Improved system reliability by
+tightening validation criteria on live data.
+```
 
 ---
 
