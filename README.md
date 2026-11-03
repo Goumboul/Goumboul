@@ -4,7 +4,7 @@
 
 **Backend · Automation · Systems**
 
-Nancy, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Open to internship
+Toulouse, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Open to internship
 
 [![Email](https://img.shields.io/badge/lucca.lisciati--ghazinia%40epitech.eu-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117&color=30363d)](mailto:lucca.lisciati-ghazinia@epitech.eu)
 
