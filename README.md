@@ -74,6 +74,12 @@ Data pipeline with a live Streamlit dashboard. Built to make results explorable,
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Goumboul&theme=tokyo-night&hide_border=true&area=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goumboul/goumboul/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goumboul/goumboul/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Goumboul/goumboul/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
