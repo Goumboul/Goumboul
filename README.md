@@ -2,11 +2,13 @@
 
 # Lucca Lisciati-Ghazinia
 
-**Backend · Automation · Systems**
+**Backend · Databases · Systems**
 
-Toulouse, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Open to internship
+Toulouse, France &nbsp;·&nbsp; Epitech 2024–2029 &nbsp;·&nbsp; Co-founder @ [Database Story](https://databasestory.com) &nbsp;·&nbsp; Open to internship
 
 [![Email](https://img.shields.io/badge/lucca.lisciati--ghazinia%40epitech.eu-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117&color=30363d)](mailto:lucca.lisciati-ghazinia@epitech.eu)
+[![Database Story](https://img.shields.io/badge/databasestory.com-0d1117?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117&color=30363d)](https://databasestory.com)
+[![X](https://img.shields.io/badge/@LuccaLisciati-0d1117?style=flat-square&logo=x&logoColor=white&labelColor=0d1117&color=30363d)](https://x.com/LuccaLisciati)
 
 </div>
 
@@ -16,15 +18,21 @@ I build backend systems, REST APIs, and automation tools. I have shipped code in
 
 ---
 
+## Database Story
+
+I'm co-founder of **[databasestory.com](https://databasestory.com)**, where we interview the engineers who build the database and backend world — their journeys, their choices, and the advice they'd give to people starting out. Engineers from Microsoft, Google, MongoDB, AWS and Dalibo have already shared their stories.
+
+---
+
 ## Stack
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=php,js,py,c,cpp&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=php,js,ts,py,c,cpp&theme=dark)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,react,fastapi&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=mysql,git,jupyter&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres,mysql,git,jupyter&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -70,6 +78,6 @@ Data pipeline with a live Streamlit dashboard. Built to make results explorable,
 
 <div align="center">
 
-[lucca.lisciati-ghazinia@epitech.eu](mailto:lucca.lisciati-ghazinia@epitech.eu) &nbsp;·&nbsp; Nancy, France
+[lucca.lisciati-ghazinia@epitech.eu](mailto:lucca.lisciati-ghazinia@epitech.eu) &nbsp;·&nbsp; [databasestory.com](https://databasestory.com) &nbsp;·&nbsp; Toulouse, France
 
 </div>
