@@ -68,11 +68,7 @@ Data pipeline with a live Streamlit dashboard. Built to make results explorable,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goumboul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Goumboul&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Goumboul&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Metrics](https://raw.githubusercontent.com/Goumboul/goumboul/main/github-metrics.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goumboul/goumboul/output/github-snake-dark.svg" />
