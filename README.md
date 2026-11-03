@@ -72,6 +72,8 @@ Data pipeline with a live Streamlit dashboard. Built to make results explorable,
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Goumboul&theme=tokyonight&hide_border=true)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Goumboul&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
